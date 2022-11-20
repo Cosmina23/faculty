@@ -1,0 +1,3 @@
+O imagine Docker a mediului modelsim a fost construit˘a pentru
+sisteme macOS. Procedura descris˘a ˆın slide-urile urm˘atoare a fost
+testat˘a sub macOS Catalina, versiunea 10.15.7.
